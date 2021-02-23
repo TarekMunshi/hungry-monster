@@ -1,0 +1,14 @@
+button{
+    margin-left: 5px;
+}
+#ingredientWrapper img{
+    width: 100%;
+}
+#ingredientWrapper {
+    display: none;
+}
+#allMeals .singleMeal{
+    width: 16rem; 
+    padding: 0px;
+    cursor:pointer;
+}
